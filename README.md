@@ -31,6 +31,10 @@ Both implementations use `GET_TIME()` from `timer.h` to measure the elapsed time
 
 ## Usage
 Compile using:
-```bash
+
 gcc pcb1.c -o pcb1
 ./pcb1
+
+gcc pcb2.c -o pcb2
+./pcb2
+
